@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1624298170 source:c:\users\user\desktop\finalprojectdomes\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<list>
+	<iterator>
+	<cstdio>
+	<ctime>
+	"UnsortedArray.h"
+	"SortedArray.h"
+	"BinaryTree.h"
+	"AVLtree.h"
+	"HashTable.h"
+
+1624228944 source:c:\users\user\desktop\finalprojectdomes\src\unsortedarray.cpp
+	"UnsortedArray.h"
+	<cstring>
+
+1624127638 c:\users\user\desktop\finalprojectdomes\include\unsortedarray.h
+	<string>
+	<iostream>
+
+1624127892 c:\users\user\desktop\finalprojectdomes\include\sortedarray.h
+	<string>
+	<iostream>
+
+1624228797 source:c:\users\user\desktop\finalprojectdomes\src\sortedarray.cpp
+	"SortedArray.h"
+	<cstring>
+
+1624293248 c:\users\user\desktop\finalprojectdomes\include\binarytree.h
+	<string>
+
+1624295351 source:c:\users\user\desktop\finalprojectdomes\src\binarytree.cpp
+	"BinaryTree.h"
+	<bits/stdc++.h>
+
+1624297782 source:c:\users\user\desktop\finalprojectdomes\src\avltree.cpp
+	"AVLtree.h"
+	<bits/stdc++.h>
+
+1624293248 c:\users\user\desktop\finalprojectdomes\include\avltree.h
+	<string>
+
+1624130557 c:\users\user\desktop\finalprojectdomes\include\hashtable.h
+	<string>
+	<bits/stdc++.h>
+	<cstring>
+	<iostream>
+
+1624222915 source:c:\users\user\desktop\finalprojectdomes\src\hashtable.cpp
+	"HashTable.h"
+	<string>
+	<bits/stdc++.h>
+
